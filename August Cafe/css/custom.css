@@ -1,0 +1,72 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+#menubar {
+	padding: 15px; 
+}
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #000000;
+ }
+ .navbar-default .navbar-nav > li > a:hover {
+    color: #D14A44;
+ }
+ .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    background-color: #D14A44;
+    color: #ffffff;
+}
+.navbar {
+	margin-top: 10px;
+}
+.dropdown-menu > li > a:hover {
+    background: transparent;
+    color: #D14A44;
+}
+#feature {
+	padding: 15px;
+	background: #D14A44;
+	color: #ffffff;
+}
+#feature h1 {
+	font-size: 50px;
+}
+#feature p {
+	font-size: 16px;
+}
+#service {
+	padding: 15px;
+}
+#services .glyphicon {
+	font-size: 50px;
+	color: #D14A44;
+}
+#promo {
+	padding: 15px;
+}
+#promo .btn-default {
+	background: #D14A44;
+	color: #ffffff;
+}
+#promo .btn-default:hover {
+	background: #ffffff;
+	color: #D14A44;
+	border: 1px solid #D14A44;
+}
+#promo .phone {
+	font-size: 24px;
+}
+#information {
+	padding: 15px;
+	background: #483524;
+	color: #ffffff;
+}
+#copyright {
+	padding: 15px;
+	background: #3E2723;
+	color: #ffffff;
+
+}
